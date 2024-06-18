@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Modern Technologies**
 
-- 💬 Ask me about **MERN , DSA**
+- 💬 Ask me about **MERN & DSA**
 
 - 📫 Reach out to me at **aryaning19@gmail.com**
 
